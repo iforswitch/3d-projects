@@ -1,21 +1,37 @@
-# Project Name
+# Gimbal-Style Phone Case — S10+
 
-Short 1-2 line description.
+A two-part gimbal-style phone case designed for the Samsung S10+, with a rotating assembly that allows free movement on one axis. Inspired by the [CaseCorder by Stephan Lemmer](https://www.etsy.com/shop/CaseCorder)
 
-![Best finished photo](photo.jpg)
+![Finished prop](20251125_073420.jpg)
 
 ## Overview
-What it is, what inspired it, why you made it.
+
+Initially was just looking to design a phone case for my Samsung S10+ but it evolved into more as I got really interested in camcorders and stumbled across Stephan's Casecorder.
 
 ## How it works
-Key design decisions, how the parts fit together, 
-anything non-obvious about the mechanism or system.
+
+- A simple case gimbal that allows the phone to rotate along 1-axis allowing for more ergonomic filming and photo taking at low or hard overhead positions
+- Stephan built his CaseCorder based on a balljoint mechanism, which I figured would've been too weak on my heavier phone, so I opted for a long, solid tube as a pivot.
+- The case uses [screwmount](stls/screwmount.stl) as an option to tap a 1/4 in UNC 20 thread for mounting on tripods
+
+### Assembly
+
+- Loctite 401 is used to permanently lock end caps close to parts, allowing for max friction but still allowing rotation
 
 ## Build process
-The journey — what you tried, what failed, what you 
-changed and why. Drop photos inline as you go.
 
-![Relevant photo](photo2.jpg)
+Earlier revisions are shown in the photo, but the part count and assembly remain the same.
+- Put the [hinge](stls/hingev5.stl) on the [case](stls/casev10) and lock it with 1 [pincovers](stls/pincovers.stl)
+- If you want a grip band on the [case cover](stls/coverv5), then now is the easiest time to stitch it on (refer to the top image to see how it's meant to be stitched on)
+- Slide the case cover channel over the hinge and use another pin cover to secure it tightly in place, making sure it's still able to rotate
+
+![entire disassembly](20251121_100449.jpg)
 
 ## Files
-Quick explanation of what's in the repo.
+
+The stls are [here](stls)
+
+## Printing
+
+- 2x [pincovers](stls/pincovers.stl)
+- Everything else just needs to be printed once
