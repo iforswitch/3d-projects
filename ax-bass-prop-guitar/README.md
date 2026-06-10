@@ -1,8 +1,9 @@
-# Project Name
+# Axe Bass — Adventure Time Prop
 
-Short 1-2 line description.
+A full-scale replica of the Axe Bass from Adventure Time, modelled from reference and designed to be assembled in interlocking sections.
 
-![Best finished photo](photo.jpg)
+![Best finished photo](IMG_9041.jpg)
+![Me with the prop](IMG_9020.jpg)
 
 ## Overview
 What it is, what inspired it, why you made it.
