@@ -1,21 +1,32 @@
-# Project Name
+# Axe Bass — Adventure Time Prop
 
-Short 1-2 line description.
+A fully functional single-piston engine desk toy, designed from the ground up for FDM printing — no supports, no overhangs, no wasted material.
 
-![Best finished photo](photo.jpg)
+![Front](Screenshot_20260610_131815_Gallery.jpg)
+![Back](Screenshot_20260610_131831_Gallery.jpg)
+[![Demo](fusion360thumbnail.jpg)](https://youtube.com/shorts/WpneNECSAEU)
 
 ## Overview
-What it is, what inspired it, why you made it.
+
+Wanted to try recreating a single-piston engine to better understand rotation-to-linear motion.
 
 ## How it works
-Key design decisions, how the parts fit together, 
-anything non-obvious about the mechanism or system.
 
-## Build process
-The journey — what you tried, what failed, what you 
-changed and why. Drop photos inline as you go.
+A desk toy that you can spin and see the piston go up and down.
 
-![Relevant photo](photo2.jpg)
+### Assembly
+
+Just follow the image below.
+![Assembly guide](singlepistonmanual.pdf)
 
 ## Files
-Quick explanation of what's in the repo.
+The stls are [here](stls)
+
+## Printing
+- 2x [PistonPin](stls/PistonPin.stl)
+- 2x [RodPin](stls/RodPin.stl)
+- 4x [PistonPinLock](stls/PistonPinLock.stl)
+- 2x [CrankPinFront](stls/CrankPinFront.stl)
+- 2x [CrankPinRear](stls/CrankPinRear.stl)
+- 2x [CrankPinHolder](stls/CrankPinHolder.stl)
+- Everything else just needs to be printed once
