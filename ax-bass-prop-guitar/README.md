@@ -54,5 +54,12 @@ painted, I took it on as a week-long challenge.
 ![final assembled and cel shaded axe bass](20250719_054158.jpg)
 
 ## Files
+The stls are [here](stls)
 
-Quick explanation of what's in the repo.
+## Printing
+- 2 of [knob](stls/knob.stl)
+- 4 of [nut](stls/nut.stl)
+- 4 of [peg](stls/peg.stl)
+- 2 of [stringGuideA](stringGuideA.stl)
+- 8 of [stringGuideB](stringGuideB.stl)
+- Everything else just needs to be printed once
