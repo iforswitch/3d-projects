@@ -20,12 +20,12 @@ Initially was just looking to design a phone case for my Samsung S10+ but it evo
 
 ## Build process
 
-Earlier revisions are shown in the photo, but still the same part count and assembly.
-- Put the [hinge](stls/hingev5.stl) on the [case](casev10) and lock it with 1 [pincovers](puncovers.stl)
+Earlier revisions are shown in the photo, but the part count and assembly remain the same.
+- Put the [hinge](stls/hingev5.stl) on the [case](stls/casev10) and lock it with 1 [pincovers](stls/pincovers.stl)
 - If you want a grip band on the [case cover](stls/coverv5), then now is the easiest time to stitch it on (refer to the top image to see how it's meant to be stitched on)
 - Slide the case cover channel over the hinge and use another pin cover to secure it tightly in place, making sure it's still able to rotate
 
-[entire disassembly](20251121_100449.jpg)
+![entire disassembly](20251121_100449.jpg)
 
 ## Files
 
