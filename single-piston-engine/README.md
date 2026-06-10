@@ -1,4 +1,4 @@
-# Axe Bass — Adventure Time Prop
+# Single Piston Engine
 
 A fully functional single-piston engine desk toy, designed from the ground up for FDM printing — no supports, no overhangs, no wasted material.
 
@@ -18,7 +18,7 @@ A desk toy that you can spin and see the piston go up and down.
 ### Assembly
 
 Just follow the image below.
-![Assembly guide](singlepistonmanual.pdf)
+[Assembly guide](singlepistonmanual.pdf)
 
 ## Files
 The stls are [here](stls).
