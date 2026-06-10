@@ -29,7 +29,7 @@ painted, I took it on as a week-long challenge.
 ## Build process
 
 ### References
-- Used photos from the show to get the proportion of the separate parts I'll need to model
+Used photos from the show to get the proportion of the separate parts I'll need to model
 ![conceptual references](reference.png)
 
 ### Printing and Assembly
@@ -54,7 +54,7 @@ painted, I took it on as a week-long challenge.
 ![final assembled and cel shaded axe bass](20250719_054158.jpg)
 
 ## Files
-The stls are [here](stls)
+The stls are [here](stls).
 
 ## Printing
 - 2x [knob](stls/knob.stl)
