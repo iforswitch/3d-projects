@@ -30,7 +30,28 @@ painted, I took it on as a week-long challenge.
 
 ### References
 - Used photos from the show to get the proportion of the seperate parts I'll need to model
-![conceptual references](refernce.png)
+![conceptual references](reference.png)
+
+### Printing and Assembly
+
+#### Tail Spike
+![tail spike on the bed](20250712_012742.jpg)
+![tail spike assembled](20250712_013336.jpg)
+
+#### Neck and Head
+![neck on the bed](20250712_062244.jpg)
+![neck assembled](20250712_131647.jpg)
+![neck support](20250712_153600.jpg)
+![head with all the pegs](20250712_204217.jpg)
+
+#### Body
+![almost assembled body showing the keying mechanism](20250715_122908.jpg)
+![neck and body together](20250715_122908.jpg)
+![strap lock](20250715_154406.jpg)
+![strap lock with a strap](20250715_154426.jpg)
+![lower body showing the ends of the fishing lines anchored and other small details](20250715_165227.jpg)
+![black painted toothpicks on the channels of the painted neck as frets](20250719_004857.jpg)
+![final assembled and cel shaded axe bass](20250719_054158.jpg)
 
 ## Files
 
