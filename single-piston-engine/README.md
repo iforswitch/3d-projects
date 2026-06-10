@@ -1,3 +1,21 @@
-<h1>Fusion360/OrcaSlicer</h1>
-All stls (and assembly) have a 0.4mm under chamfer to account for elephant's foot (Set to 0 in settings)
-Make sure all stls are orientated so that the chamfer plane (which is the bottom) is touching the plate.  The model was designed for this, being modular, to allow easier printing.
+# Project Name
+
+Short 1-2 line description.
+
+![Best finished photo](photo.jpg)
+
+## Overview
+What it is, what inspired it, why you made it.
+
+## How it works
+Key design decisions, how the parts fit together, 
+anything non-obvious about the mechanism or system.
+
+## Build process
+The journey — what you tried, what failed, what you 
+changed and why. Drop photos inline as you go.
+
+![Relevant photo](photo2.jpg)
+
+## Files
+Quick explanation of what's in the repo.
