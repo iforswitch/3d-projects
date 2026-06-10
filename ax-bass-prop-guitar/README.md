@@ -29,7 +29,7 @@ painted, I took it on as a week-long challenge.
 ## Build process
 
 ### References
-- Used photos from the show to get the proportion of the seperate parts I'll need to model
+- Used photos from the show to get the proportion of the separate parts I'll need to model
 ![conceptual references](reference.png)
 
 ### Printing and Assembly
@@ -57,9 +57,9 @@ painted, I took it on as a week-long challenge.
 The stls are [here](stls)
 
 ## Printing
-- 2 of [knob](stls/knob.stl)
-- 4 of [nut](stls/nut.stl)
-- 4 of [peg](stls/peg.stl)
-- 2 of [stringGuideA](stringGuideA.stl)
-- 8 of [stringGuideB](stringGuideB.stl)
+- 2x [knob](stls/knob.stl)
+- 4x [nut](stls/nut.stl)
+- 4x [peg](stls/peg.stl)
+- 2x [stringGuideA](stls/stringGuideA.stl)
+- 8x [stringGuideB](stls/stringGuideB.stl)
 - Everything else just needs to be printed once
