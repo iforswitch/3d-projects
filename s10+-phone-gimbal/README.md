@@ -11,16 +11,16 @@ Initially was just looking to design a phone case for my Samsung S10+ but it evo
 ## How it works
 
 - A simple case gimbal that allows the phone to rotate along 1-axis allowing for more ergonomic filming and photo taking at low or hard overhead positions
-- Stephan built his CaseCorder based on a balljoint mechanism, which I figured would've been too weak on my heavier phone, so I opted for a long, solid tube as a pivot.
+- Stephan built his CaseCorder based on a balljoint mechanism, which I figured would've been too weak on my heavier phone, so I opted for a long, solid tube as a pivot
 - The case uses [screwmount](stls/screwmount.stl) as an option to tap a 1/4 in UNC 20 thread for mounting on tripods
 
 ### Assembly
 
-- Loctite 401 is used to permanently lock end caps close to parts, allowing for max friction but still allowing rotation
+Loctite 401 is used to permanently lock end caps close to parts, allowing for max friction but still allowing rotation.
 
 ## Build process
 
-Earlier revisions are shown in the photo, but the part count and assembly remain the same.
+An earlier revision is shown in the photo below, but the part count and assembly remain the same.
 - Put the [hinge](stls/hingev5.stl) on the [case](stls/casev10.stl) and lock it with 1 [pincovers](stls/pincovers.stl)
 - If you want a grip band on the [case cover](stls/coverv5.stl), then now is the easiest time to stitch it on (refer to the top image to see how it's meant to be stitched on)
 - Slide the case cover channel over the hinge and use another pin cover to secure it tightly in place, making sure it's still able to rotate
