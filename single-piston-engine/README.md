@@ -27,8 +27,7 @@ A desk toy that you can spin and see the piston go up and down.
 
 ### Assembly
 
-Just follow
-[Assembly guide](singlepistonmanual.pdf).
+Just follow [assembly guide](singlepistonmanual.pdf).
 
 ## Files
 The stls are [here](stls).
