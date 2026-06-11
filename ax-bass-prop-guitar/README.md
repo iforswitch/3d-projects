@@ -3,8 +3,14 @@
 A full-scale replica of the Axe Bass from Adventure Time, modelled 
 from reference and designed to be assembled in interlocking sections.
 
-![Finished prop](IMG_9041.jpg)
-![Me with the prop](IMG_9020.jpg)
+<table>
+    <tr>
+        <td align="center">
+        <img src="IMG_9041.jpg" width="100%"><br>Finished prop</td>
+        <td align="center">
+        <img src="IMG_9020.jpg" width="100%"><br>Me with the prop</td>
+    </tr>
+</table>
 
 ## Overview
 
@@ -35,26 +41,59 @@ painted, I took it on as a week-long challenge.
 ### Printing and Assembly
 
 #### Tail Spike
-![tail spike on the bed](20250712_012742.jpg)
-![tail spike assembled](20250712_013336.jpg)
+<table>
+    <tr>
+        <td align="center">
+        <img src="20250712_012742.jpg" width="100%"><br>Tail spike on the bed</td>
+        <td align="center">
+        <img src="20250712_013336.jpg" width="100%"><br>Tail spike assembled</td>
+    </tr>
+</table>
 
 #### Neck and Head
-![neck on the bed](20250712_062244.jpg)
-![neck assembled](20250712_131647.jpg)
-![neck support](20250712_153600.jpg)
-![head with all the pegs](20250712_204217.jpg)
+<table>
+    <tr>
+        <td align="center">
+        <img src="20250712_062244.jpg" width="100%"><br>Neck on the bed</td>
+        <td align="center">
+        <img src="20250712_131647.jpg" width="100%"><br>Neck assembled</td>
+    </tr>
+    <tr>
+        <td align="center">
+        <img src="20250712_153600.jpg" width="100%"><br>Neck support</td>
+        <td align="center">
+        <img src="20250712_204217.jpg" width="100%"><br>Head with all the pegs</td>
+    </tr>
+</table>
 
 #### Body
-![almost assembled body showing the keying mechanism](20250715_122908.jpg)
-![neck and body together](20250715_122908.jpg)
-![strap lock](20250715_154406.jpg)
-![strap lock with a strap](20250715_154426.jpg)
-![lower body showing the ends of the fishing lines anchored and other small details](20250715_165227.jpg)
-![black painted toothpicks on the channels of the painted neck as frets](20250719_004857.jpg)
-![final assembled and cel shaded axe bass](20250719_054158.jpg)
+<table>
+    <tr>
+        <td align="center" colspan="2">
+        <img src="20250715_122908.jpg" width="100%"><br>Almost assembled body showing the keying mechanism</td>
+    </tr>
+    <tr>
+        <td align="center">
+        <img src="20250715_123101.jpg" width="100%"><br>Neck and body together</td>
+        <td align="center">
+        <img src="20250715_154406.jpg" width="100%"><br>Strap lock</td>
+    </tr>
+    <tr>
+        <td align="center">
+        <img src="20250715_154426.jpg" width="100%"><br>Strap lock with a strap</td>
+        <td align="center">
+        <img src="20250715_165227.jpg" width="100%"><br>Lower body showing the ends of the fishing lines anchored and other small details</td>
+    </tr>
+    <tr>
+        <td align="center">
+        <img src="20250719_004857.jpg" width="100%"><br>Black painted toothpicks on the channels of the painted neck as frets</td>
+        <td align="center">
+        <img src="20250719_054158.jpg" width="100%"><br>Final assembled and cel shaded axe bass</td>
+    </tr>
+</table>
 
 ## Files
-The stls are [here](stls)
+The stls are [here](stls).
 
 ## Printing
 - 2x [knob](stls/knob.stl)

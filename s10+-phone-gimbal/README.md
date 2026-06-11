@@ -1,6 +1,6 @@
 # Gimbal-Style Phone Case — S10+
 
-A two-part gimbal-style phone case designed for the Samsung S10+, with a rotating assembly that allows free movement on one axis. Inspired by the [CaseCorder by Stephan Lemmer](https://www.etsy.com/shop/CaseCorder)
+A two-part gimbal-style phone case designed for the Samsung S10+, with a rotating assembly that allows free movement on one axis. Inspired by the [CaseCorder by Stephan Lemmer](https://www.etsy.com/shop/CaseCorder).
 
 ![Finished prop](20251125_073420.jpg)
 
@@ -29,7 +29,7 @@ Earlier revisions are shown in the photo, but the part count and assembly remain
 
 ## Files
 
-The stls are [here](stls)
+The stls are [here](stls).
 
 ## Printing
 
