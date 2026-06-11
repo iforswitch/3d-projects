@@ -9,7 +9,7 @@ A two-part gimbal-style phone case designed for the Samsung S10+, with a rotatin
     </tr>
     <tr>
         <td align="center">
-        <img src="gimbal.gif" width="100%"><br>Earlier revision, gimbal in action</td>
+        <img src="gimbal.gif" width="100%"><br>Earlier revision - gimbal in action</td>
     </tr>
 </table>
 
