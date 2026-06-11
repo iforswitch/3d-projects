@@ -2,10 +2,20 @@
 
 A fully functional single-piston engine desk toy, designed from the ground up for FDM printing — no supports, no overhangs, no wasted material.
 
-![Front](Screenshot_20260610_131815_Gallery.jpg)
-![Back](Screenshot_20260610_131831_Gallery.jpg)
-[![Demo](Screenshot_20260610_131845_Gallery.jpg)](https://youtube.com/shorts/WpneNECSAEU)
-[![fusion360 demo](fusion360thumbnail.jpg)](https://www.youtube.com/watch?v=POe88hWiJPs)
+<table>
+    <tr>
+        <td align="center">
+        <img src="Screenshot_20260610_131815_Gallery.jpg" width="100%"><br>Front</td>
+        <td align="center">
+        <img src="Screenshot_20260610_131831_Gallery.jpg" width="100%"><br>Back</td>
+    </tr>
+    <tr>
+        <td align="center">
+        <img src="singlepiston.gif" width="100%"><br>fusion360 motion study</td>
+        <td align="center">
+        <img src="mechanism.gif" width="100%"><br>Working mechanism</td>
+    </tr>
+</table>
 
 ## Overview
 
@@ -18,7 +28,7 @@ A desk toy that you can spin and see the piston go up and down.
 ### Assembly
 
 Just follow
-[Assembly guide](singlepistonmanual.pdf)
+[Assembly guide](singlepistonmanual.pdf).
 
 ## Files
 The stls are [here](stls).
